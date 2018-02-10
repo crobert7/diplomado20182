@@ -1,3 +1,5 @@
 # diplomado20182
 
-ejercicios ???
+
+
+Ya lo edite el maldito readme!!!
