@@ -1,5 +1,5 @@
-# diplomado20182
+# diplomado2018-2
 
 
 
-Ya lo edite el maldito readme!!!
+Ya lo edite el readme!!!
