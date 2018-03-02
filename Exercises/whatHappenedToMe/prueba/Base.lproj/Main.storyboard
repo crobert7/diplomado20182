@@ -19,7 +19,7 @@
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="sHE-hZ-GDi">
-                                <rect key="frame" x="0.0" y="98" width="375" height="0.0"/>
+                                <rect key="frame" x="0.0" y="110" width="375" height="0.0"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <nil key="textColor"/>
                                 <nil key="highlightedColor"/>
@@ -43,7 +43,6 @@
                             <constraint firstItem="sHE-hZ-GDi" firstAttribute="top" secondItem="suS-yt-iWV" secondAttribute="bottom" constant="40" id="YSf-j1-6cs"/>
                             <constraint firstItem="sHE-hZ-GDi" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="eNx-Al-sGf"/>
                             <constraint firstItem="suS-yt-iWV" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="hkI-d1-UKf"/>
-                            <constraint firstItem="sHE-hZ-GDi" firstAttribute="top" secondItem="suS-yt-iWV" secondAttribute="bottom" constant="28" id="jyy-Te-oAZ"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="sHE-hZ-GDi" secondAttribute="trailing" id="lCs-zw-Nat"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="kXL-MB-LpD" secondAttribute="trailing" id="mPN-us-RTA"/>
                             <constraint firstItem="kXL-MB-LpD" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" id="sAd-sY-ufc"/>
