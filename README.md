@@ -1,5 +1,4 @@
 # diplomado2018-2
 
 
-
-Ya lo edite el readme!!!
+Class exercises are in the Folder "Exercises" Click here
