@@ -14,6 +14,7 @@
 		7CE0767520CDC12F0023DD71 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CE0767320CDC12F0023DD71 /* Main.storyboard */; };
 		7CE0767720CDC1300023DD71 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 7CE0767620CDC1300023DD71 /* Assets.xcassets */; };
 		7CE0767A20CDC1300023DD71 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7CE0767820CDC1300023DD71 /* LaunchScreen.storyboard */; };
+		7CE2F14D20D8880A00B6E41F /* WebViewContoller.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7CE2F14C20D8880A00B6E41F /* WebViewContoller.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		7CE0767620CDC1300023DD71 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		7CE0767920CDC1300023DD71 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		7CE0767B20CDC1300023DD71 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		7CE2F14C20D8880A00B6E41F /* WebViewContoller.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WebViewContoller.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +72,7 @@
 			children = (
 				7CE0766F20CDC12F0023DD71 /* AppDelegate.swift */,
 				7CBC7CBD20CF542B001AFF62 /* MapViewController.swift */,
+				7CE2F14C20D8880A00B6E41F /* WebViewContoller.swift */,
 				7CE0767120CDC12F0023DD71 /* ConversionViewController.swift */,
 				7CE0767320CDC12F0023DD71 /* Main.storyboard */,
 				7CE0767620CDC1300023DD71 /* Assets.xcassets */,
@@ -150,6 +153,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				7CE2F14D20D8880A00B6E41F /* WebViewContoller.swift in Sources */,
 				7CE0767220CDC12F0023DD71 /* ConversionViewController.swift in Sources */,
 				7CBC7CBE20CF542B001AFF62 /* MapViewController.swift in Sources */,
 				7CE0767020CDC12F0023DD71 /* AppDelegate.swift in Sources */,
